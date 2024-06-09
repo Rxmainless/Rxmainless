@@ -28,7 +28,7 @@
 <!-- GithubStats -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham" height="220" alt="GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Rxmainless&show_icons=true&theme=gotham" height="220" alt="GitHub stats" /></td>
     <td><img src="https://streak-stats.demolab.com?user=Rxmainless&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /></td>
   </tr>
 </table>
