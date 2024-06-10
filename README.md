@@ -25,6 +25,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cxrpse.py/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesquitaforall/)
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313x3w24tti4dyx3kocdjpoppsv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=313x3w24tti4dyx3kocdjpoppsv4&redirect=true)
 <!-- GithubStats -->
 <table align="center">
   <tr>
