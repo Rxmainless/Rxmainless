@@ -11,8 +11,6 @@
 
 - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and as a prompt engineer.
 </p>
-<!-- tryhackme -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3728912" style='border:none;'></iframe>
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
