@@ -41,8 +41,6 @@
   <img src="https://i.pinimg.com/originals/8d/44/28/8d44285958161178e861f78d655ce22d.gif" alt="REQUIEM AETERNUM">
 </p>
 
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
