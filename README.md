@@ -23,7 +23,7 @@
 
 👉 **[Ver todos os meus repositórios](https://github.com/Rxmainless?tab=repositories)**
 
-*(Priorize terminar pelo menos 1 ou 2 projetos reais hoje para substituir os "Em breve")*
+*(Em breve)*
 
 ---
 
