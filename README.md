@@ -1,48 +1,46 @@
-<!-- Banner -->
-<h1 align="center">👋 Olá, eu sou o Jorge Mesquita!</h1>
-<h3 align="center">💻 Desenvolvedor Backend em Formação | Apaixonado por Engenharia de Software e Automação</h3>
+<h1 align="center">Hi 👋, I'm Jorge Mesquita</h1>
+<h3 align="center">Desenvolvedor Backend | Python, SQL e Automação de Processos</h3>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-- 🎓 Estudante de **Engenharia de Software e Ciência da Computação** na **Descomplica Faculdade Digital**.
-- 🌱 Atualmente mergulhado em **Backend**, **Python**, **SQL**, **APIs** e **Automação de Processos**.
-- 💡 Interesses fortes em **Inteligência Artificial**, **Engenharia de Prompt**, **Arquitetura de Sistemas** e **Soluções Escaláveis**.
-- 🔭 Buscando minha **primeira oportunidade** como Desenvolvedor Júnior ou Estagiário.
-- 🌎 Inglês fluente | Aprendizagem contínua e autodidata.
+- 🎓 Estudante de **Engenharia de Software** na UNIFG (Recife-PE)
+- 💻 Foco principal em **Backend Development**, **Python**, **SQL**, **APIs REST** e **Automação de Processos**
+- 🌱 Atualmente mergulhado em desenvolvimento de soluções escaláveis e eficientes
+- 💡 Interesses fortes em **Inteligência Artificial**, **Engenharia de Prompt** e **Arquitetura de Sistemas**
+- 🔭 Buscando minha **primeira oportunidade** como Desenvolvedor Backend Júnior ou Estagiário
+- 🌎 Inglês fluente • Aprendizagem autodidata e contínua
+- 💪 Disciplina e resiliência desenvolvidas na Academia Nacional de Polícia
 
 ---
 
-## 📂 Portfólio & Projetos
+## 📂 Projetos em Destaque
 
-Estou construindo meu portfólio com foco em projetos práticos e de alto impacto:
-
-- **Em breve** — Automação avançada de relatórios com Python (Pandas + OpenPyXL + Agendamento)
+- **Em breve** — Automação avançada de relatórios com Python (Pandas + OpenPyXL)
 - **Em breve** — Sistema CRUD completo com Flask + SQLite + Autenticação
-- **Em breve** — Dashboard interativo de análise de dados (Pandas + Matplotlib/Plotly)
-- **Em breve** — Integrações com APIs externas e bots inteligentes
+- **Em breve** — Dashboard interativo de análise de dados (Pandas + Plotly)
 
-👉 **[Veja todos os meus repositórios](https://github.com/Rxmainless?tab=repositories)**
+👉 **[Ver todos os meus repositórios](https://github.com/Rxmainless?tab=repositories)**
+
+*(Priorize terminar pelo menos 1 ou 2 projetos reais hoje para substituir os "Em breve")*
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Languages and Tools
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
 ---
 
@@ -55,10 +53,16 @@ Estou construindo meu portfólio com foco em projetos práticos e de alto impact
 
 ---
 
-## 🌎 Vamos nos conectar!
+## 🌎 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesquitaforall/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cxrpse.py/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mesquitaforall/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/cxrpse.py/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
