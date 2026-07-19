@@ -18,7 +18,7 @@
 - 💻 Especializando-me em **Backend Development** com foco em **Python**, **SQL**, **APIs** e **Automação de Processos**
 - 🌱 Construindo soluções que economizam tempo e aumentam eficiência
 - 🔭 Em busca da **primeira oportunidade** como Desenvolvedor Backend Júnior / Estagiário
-- 💪 Disciplina, resiliência e aprendizado contínuo — valores reforçados na Academia Nacional de Polícia
+- 💪 Disciplina, resiliência e aprendizado contínuo
 - 🌎 Inglês fluente | Autodidata | Aberto a desafios
 
 ---
